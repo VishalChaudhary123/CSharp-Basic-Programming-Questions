@@ -1,0 +1,14 @@
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\bin\Debug\net8.0\ReverseStrings.exe
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\bin\Debug\net8.0\ReverseStrings.deps.json
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\bin\Debug\net8.0\ReverseStrings.runtimeconfig.json
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\bin\Debug\net8.0\ReverseStrings.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\bin\Debug\net8.0\ReverseStrings.pdb
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.AssemblyInfo.cs
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\refint\ReverseStrings.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.pdb
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ReverseStrings.genruntimeconfig.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\ReverseStrings\obj\Debug\net8.0\ref\ReverseStrings.dll

@@ -1,0 +1,14 @@
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.exe
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+C:\Users\visha\Desktop\C# Tutorials\Questions 1\Palindrome\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
