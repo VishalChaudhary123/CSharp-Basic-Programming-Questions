@@ -1,0 +1,14 @@
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.AssemblyInfoInputs.cache
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.AssemblyInfo.cs
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.csproj.CoreCompileInputs.cache
+D:\Questions 1\Square\Square\bin\Debug\net8.0\Square.exe
+D:\Questions 1\Square\Square\bin\Debug\net8.0\Square.deps.json
+D:\Questions 1\Square\Square\bin\Debug\net8.0\Square.runtimeconfig.json
+D:\Questions 1\Square\Square\bin\Debug\net8.0\Square.dll
+D:\Questions 1\Square\Square\bin\Debug\net8.0\Square.pdb
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.dll
+D:\Questions 1\Square\Square\obj\Debug\net8.0\refint\Square.dll
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.pdb
+D:\Questions 1\Square\Square\obj\Debug\net8.0\Square.genruntimeconfig.cache
+D:\Questions 1\Square\Square\obj\Debug\net8.0\ref\Square.dll
